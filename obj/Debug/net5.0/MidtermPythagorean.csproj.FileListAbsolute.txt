@@ -1,0 +1,16 @@
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\MidtermPythagorean.exe
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\MidtermPythagorean.deps.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\MidtermPythagorean.runtimeconfig.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\MidtermPythagorean.runtimeconfig.dev.json
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\MidtermPythagorean.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\ref\MidtermPythagorean.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\bin\Debug\net5.0\MidtermPythagorean.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.csprojAssemblyReference.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.AssemblyInfoInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.AssemblyInfo.cs
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.csproj.CoreCompileInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\ref\MidtermPythagorean.dll
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.pdb
+C:\Users\amisa\Documents\JeffLeupold\SeattleU\Algorithms\Midterm\Pythagorean\MidtermPythagorean\obj\Debug\net5.0\MidtermPythagorean.genruntimeconfig.cache
